@@ -1,2 +1,2 @@
-# Typescript-project-calculator
- PIAIC-project-calaulator-Q-1
+# calculator
+ project-calculator
